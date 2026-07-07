@@ -1,0 +1,26 @@
+posts: list[dict] = [
+    {
+        "id": 1,
+        "title": "Getting Started with FastAPI",
+        "content": "FastAPI is a modern Python framework for building APIs.",
+        "author": "John"
+    },
+    {
+        "id": 2,
+        "title": "Understanding REST APIs",
+        "content": "REST APIs allow communication between client and server.",
+        "author": "Alice"
+    },
+    {
+        "id": 3,
+        "title": "Why Learn Docker",
+        "content": "Docker helps package applications into containers.",
+        "author": "Bob"
+    },
+    {
+        "id": 4,
+        "title": "Intro to Machine Learning",
+        "content": "Machine learning enables systems to learn from data.",
+        "author": "Emma"
+    }
+]
